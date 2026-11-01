@@ -1,0 +1,7 @@
+customer_id,name,email,city,age,purchase_amount
+101,Rahul Patil,rahul@gmail.com,Pune,25,15000
+102,Neha Sharma,neha@gmail.com,Mumbai,29,22000
+103,Akash More,,Kolhapur,24,12000
+104,Priya Joshi,priya@gmail.com,Pune,,18000
+104,Priya Joshi,priya@gmail.com,Pune,27,18000
+105,   Amit Kumar   ,amit@gmail.com,mumbai,31,25000
